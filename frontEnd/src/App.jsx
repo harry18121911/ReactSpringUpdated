@@ -1,13 +1,13 @@
 
 import './App.css'
-import HelloWord from './HelloWord'
+import ListEmployeeComponent from './components/ListEmployeeComponent'
 
 function App() {
   
 
   return (
     <>
-      <HelloWord/>
+      <ListEmployeeComponent/>
     </>
   )
 }
